@@ -1,0 +1,93 @@
+Bond,Organisatie,Klasse,Club,Name,Spelsoort,TMC
+KNBB,Texel,Dinsdag,DVO,Ab,bandstoten,15
+KNBB,Texel,Dinsdag,DVO,Bert,bandstoten,14
+KNBB,Texel,Dinsdag,DVO,Cor,bandstoten,14
+KNBB,Texel,Dinsdag,DVO,Gijs,bandstoten,30
+KNBB,Texel,Dinsdag,DVO,Jan Z.,bandstoten,14
+KNBB,Texel,Dinsdag,DVO,Jan W.,bandstoten,17
+KNBB,Texel,Dinsdag,DVO,Joris,bandstoten,15
+KNBB,Texel,Dinsdag,DVO,Marc P.,bandstoten,50
+KNBB,Texel,Dinsdag,DVO,Paulus,bandstoten,15
+KNBB,Texel,Dinsdag,DVO,Piet G.,bandstoten,18
+KNBB,Texel,Dinsdag,DVO,Pieter,bandstoten,28
+KNBB,Texel,Dinsdag,DVO,Poul,bandstoten,144
+KNBB,Texel,Dinsdag,DVO,Ries,bandstoten,21
+KNBB,Texel,Dinsdag,DVO,Robbin,bandstoten,36
+KNBB,Texel,Dinsdag,DVO,Roel R.,bandstoten,20
+KNBB,Texel,Dinsdag,DVO,Roy,bandstoten,20
+KNBB,Texel,Dinsdag,DVO,Rutger,bandstoten,14
+KNBB,Texel,Dinsdag,DVO,Ruud,bandstoten,15
+KNBB,Texel,Dinsdag,DVO,Theo,bandstoten,16
+KNBB,Texel,Dinsdag,DVO,Willem,bandstoten,14
+KNBB,Texel,Dinsdag,DVO,Ab,driebanden,9
+KNBB,Texel,Dinsdag,DVO,Cor,driebanden,7
+KNBB,Texel,Dinsdag,DVO,Eduard,driebanden,11
+KNBB,Texel,Dinsdag,DVO,Frits,driebanden,8
+KNBB,Texel,Dinsdag,DVO,Jan Z.,driebanden,7
+KNBB,Texel,Dinsdag,DVO,Jan W.,driebanden,9
+KNBB,Texel,Dinsdag,DVO,Joris,driebanden,7
+KNBB,Texel,Dinsdag,DVO,Marc P.,driebanden,22
+KNBB,Texel,Dinsdag,DVO,Martien,driebanden,8
+KNBB,Texel,Dinsdag,DVO,Paulus,driebanden,7
+KNBB,Texel,Dinsdag,DVO,Pieter,driebanden,11
+KNBB,Texel,Dinsdag,DVO,Poul,driebanden,7
+KNBB,Texel,Dinsdag,DVO,Ries,driebanden,9
+KNBB,Texel,Dinsdag,DVO,Roy,driebanden,8
+KNBB,Texel,Dinsdag,DVO,Ruud,driebanden,7
+KNBB,Texel,Dinsdag,DVO,Theo,driebanden,7
+KNBB,Texel,Dinsdag,DVO,Willem,driebanden,7
+KNBB,Texel,Maandag,DVO,Adri,libre,14
+KNBB,Texel,Donderdag,DVO,Bert,libre,19
+KNBB,Texel,Vrijdag,DVO,Biem,libre,43
+KNBB,Texel,Maandag,DVO,Cor,libre,24
+KNBB,Texel,Vrijdag,DVO,Corina,libre,12
+KNBB,Texel,Maandag,DVO,Dick,libre,29
+KNBB,Texel,Vrijdag,DVO,Dominic,libre,12
+KNBB,Texel,Donderdag,DVO,Eduard,libre,45
+KNBB,Texel,Vrijdag,DVO,Emiel,libre,26
+KNBB,Texel,Vrijdag,DVO,Eric,libre,17
+KNBB,Texel,Vrijdag,DVO,Erik,libre,12
+KNBB,Texel,Maandag,DVO,Frits,libre,27
+KNBB,Texel,Vrijdag,DVO,Ger,libre,12
+KNBB,Texel,Maandag,DVO,Gerard,libre,21
+KNBB,Texel,Maandag,DVO,Gijs,libre,46
+KNBB,Texel,Maandag,DVO,Gosse,libre,26
+KNBB,Texel,Donderdag,DVO,Huug,libre,20
+KNBB,Texel,Vrijdag,DVO,Jaap,libre,20
+KNBB,Texel,Maandag,DVO,Jack,libre,21
+KNBB,Texel,Vrijdag,DVO,Jamie,libre,12
+KNBB,Texel,Donderdag,DVO,Jan W.,libre,24
+KNBB,Texel,Donderdag,DVO,Jan Z.,libre,22
+KNBB,Texel,Vrijdag,DVO,Jan S.,libre,14
+KNBB,Texel,Vrijdag,DVO,Jesse,libre,12
+KNBB,Texel,Donderdag,DVO,John,libre,53
+KNBB,Texel,Donderdag,DVO,Klaas Dirk,libre,26
+KNBB,Texel,Vrijdag,DVO,Marc Schraag,libre,19
+KNBB,Texel,Donderdag,DVO,Marc Schuijl,libre,19
+KNBB,Texel,Donderdag,DVO,Marc P.,libre,120
+KNBB,Texel,Vrijdag,DVO,Marcel,libre,13
+KNBB,Texel,Donderdag,DVO,Marielle,libre,25
+KNBB,Texel,Vrijdag,DVO,Martin,libre,21
+KNBB,Texel,Vrijdag,DVO,Max,libre,23
+KNBB,Texel,Maandag,DVO,Nico,libre,24
+KNBB,Texel,Maandag,DVO,Paul,libre,36
+KNBB,Texel,Donderdag,DVO,Paul,libre,36
+KNBB,Texel,Maandag,DVO,Paulus,libre,24
+KNBB,Texel,Donderdag,DVO,Paulus,libre,23
+KNBB,Texel,Donderdag,DVO,Piet G.,libre,26
+KNBB,Texel,Donderdag,DVO,Piet K.,libre,30
+KNBB,Texel,Maandag,DVO,Piet P.,libre,16
+KNBB,Texel,Vrijdag,DVO,Richard,libre,13
+KNBB,Texel,Maandag,DVO,Ries,libre,33
+KNBB,Texel,Maandag,DVO,Rint,libre,17
+KNBB,Texel,Vrijdag,DVO,Robbin,libre,70
+KNBB,Texel,Donderdag,DVO,Roel T.,libre,20
+KNBB,Texel,Maandag,DVO,Roel R.,libre,27
+KNBB,Texel,Vrijdag,DVO,Rutger,libre,17
+KNBB,Texel,Donderdag,DVO,Ruud,libre,22
+KNBB,Texel,Donderdag,DVO,Sylvia,libre,17
+KNBB,Texel,Donderdag,DVO,Theo,libre,21
+KNBB,Texel,Vrijdag,DVO,Werner,libre,29
+KNBB,Texel,Donderdag,DVO,Wilfred,libre,21
+KNBB,Texel,Donderdag,DVO,Wim,libre,36
+KNBB,Texel,Dinsdag,TGO,Test,libre,99
